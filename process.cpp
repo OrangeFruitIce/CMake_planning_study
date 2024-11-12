@@ -7,5 +7,5 @@ void Process::planProcess()
 {
     cout << "this is planning process" << endl;
     my_map.map_Info();
-    cout << "planning success！" << endl;
+    cout << "planning success" << endl;
 }
